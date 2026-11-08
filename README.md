@@ -1,16 +1,15 @@
-## Hi there 👋
+Building stuff with AI.
 
-<!--
-**andripeetso/andripeetso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me on [Instagram](https://instagram.com/babyacrobatics) · [my site](https://andripeetso.com)
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Products
+- **[Creator Toolset](https://github.com/andripeetso/creatortoolset)** — Open-source tools for people who make video and content: captions, review links, content analysis and drafting, on your own Mac with your own AI. *(current focus)*
+- **[Baby Acrobatics](https://babyacrobatics.com)** — Movement program for babies, with iOS and Android apps
+- **[Blur Kids' Faces](https://andripeetso.com/builds/kids-face-privacy)** — Free face-blurring tool for parents (web + iPhone app)
+- **[MS Dashboard](https://andripeetso.com/builds/multiple-sclerosis-dashboard)** — My personal precision medicine platform for multiple sclerosis
+
+### Everything Else
+- **[Healthy Holistic Homes](https://andripeetso.com/builds/healthy-holistic-homes)** — Health & home brand
+- **[Mastering Fasting](https://andripeetso.com/builds/mastering-fasting)** — Book I researched and wrote 2018–2021
